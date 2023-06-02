@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+**This is created especially for INFO 591 at Drexel, for the spring 2023 term.**
+
+##Here are some interesting datasets I've found...
+- site 1
+- site 2
+- site 3
+
+*KK, that's all for now. It's really a very simple readme page!*
 
 <!--
 **robodecimal/robodecimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
