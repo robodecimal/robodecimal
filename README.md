@@ -2,11 +2,14 @@
 
 **This is created especially for INFO 591 at Drexel, for the spring 2023 term.**
 
-## Here are some interesting datasets I've found...
+## Here's an interesting dataset I've found...
 - [The Cooper-Hewitt Design Museum collection dataset](https://github.com/cooperhewitt/collection)
   - part of the Smithsonian museums, the dataset can be downloaded as a CSV containing over 130K objects and 26 metadata fields, explained [here](url) on their wiki.
-- site 2
-- site 3
+
+## 🤩 STARS... ⭐️
+- [LibraryCarpentry's OpenRefine](https://github.com/LibraryCarpentry/lc-open-refine)
+- [Awesome Digital Preservation from digipress]([url](https://github.com/digipres/awesome-digital-preservation))
+
 
 *KK, that's all for now. It's really a very simple readme page!*
 
